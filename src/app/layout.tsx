@@ -25,6 +25,7 @@ export default function RootLayout({
           <Header font={inter.className} />
           {children}
           <Footer />
+          <h4 className="text-gray-400 text-center">Author: Azmat Ali</h4>
         </div>
       </body>
     </html>

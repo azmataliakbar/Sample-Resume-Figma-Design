@@ -341,7 +341,7 @@ body {
     flex-direction: row; /* Keep items in a row for mobile */
     justify-content: space-between; /* Space between items */
     align-items: center; /* Center-align header items */
-    padding: 10px; /* Remove padding for mobile */
+    padding: 20px; /* Remove padding for mobile */
     width: 100%; /* Full width on mobile */
     text-align: center; /* Center text */
     margin-top: 0px; /* Adjust as needed */

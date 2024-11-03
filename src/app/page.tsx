@@ -138,7 +138,8 @@ export default function Home() {
 
 
       {/* Final section 3 ends */}
-
+      
     </>
+    
   );
 }
