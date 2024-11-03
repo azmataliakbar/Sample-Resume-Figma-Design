@@ -10,7 +10,7 @@ const inter = Inter({ subsets: ["latin"], weight: ["400", "700"] });
 
 export const metadata: Metadata = {
   title: "Resume from Figma Design",
-  description: "NextJs project",
+  description: "NextJs project, details are in page/layout/header/footer.tsx & globals.tsx",
 };
 
 export default function RootLayout({
